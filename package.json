@@ -10,8 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
-    "mongodb": "^6.8.0",
-    "redis": "^4.6.15"
+    "express": "^4.19.2"
   }
 }
